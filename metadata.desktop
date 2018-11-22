@@ -1,0 +1,19 @@
+[Desktop Entry]
+Name=Transparent Tumbleweed Breeze
+Comment=Transparent-Tumbleweed-Breeze
+X-KDE-PluginInfo-Author=L4k1
+X-KDE-PluginInfo-Email=
+X-KDE-PluginInfo-Name=Transparent-Tumbleweed-Breeze
+X-KDE-PluginInfo-Version=1.0
+X-KDE-PluginInfo-Website=http://plasma.kde.org
+X-KDE-PluginInfo-Category=Plasma
+X-KDE-PluginInfo-Depends=
+X-KDE-PluginInfo-License=GPL
+X-KDE-PluginInfo-EnabledByDefault=true
+
+[ContrastEffect]
+enabled=true
+contrast=0.5
+#intensity is disabled, in order to auto adjust to the chosen theme color
+#intensity=2.0
+saturation=2.0
